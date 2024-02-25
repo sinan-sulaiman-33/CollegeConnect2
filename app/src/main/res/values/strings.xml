@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">college_connect</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_al_imtiyaz">AL IMTIYAZ</string>
+  <string name="msg_hey_sinan_did">Hey Sinan. Did you get back?</string>
+  <string name="lbl_my_sports">My Sports</string>
+  <string name="msg_artificial_inte">Artificial Intelligence</string>
+  <string name="lbl_my_vicinity">My Vicinity</string>
+  <string name="lbl_convey">CONVEY</string>
+  <string name="lbl_alan_k_anil">ALAN K ANIL</string>
+  <string name="lbl_home">HOME</string>
+  <string name="lbl_my_communities">My Communities</string>
+  <string name="lbl_civil">Civil</string>
+  <string name="lbl_my_year">My Year</string>
+  <string name="lbl_biomedical">Biomedical</string>
+  <string name="lbl_missions">MISSIONS</string>
+  <string name="lbl_kochouseph_john">KOCHOUSEPH JOHN</string>
+  <string name="msg_kochouseph_john">Kochouseph John
+Vidya Academy of Science and Technology
+Computer Science and Engineering
+4th year</string>
+  <string name="lbl_my_college">My College</string>
+  <string name="lbl_confluence">CONFLUENCE</string>
+  <string name="lbl_my_posts">My Posts</string>
+  <string name="lbl_data_science">Data Science</string>
+  <string name="msg_electronics_and">Electronics and Communication</string>
+  <string name="lbl_mechanical">Mechanical</string>
+  <string name="msg_alan_k_anil_sre">Alan K Anil
+Sree Narayana Guru Engineering College
+Computer Science and Engineering
+4th year</string>
+  <string name="lbl_my_missions">My Missions</string>
+  <string name="lbl_my_arts">My Arts</string>
+  <string name="msg_sinan_sulaiman">Sinan Sulaiman
+Vidya Academy of Science and Technology
+Mechanical Engineering
+3rd year</string>
+  <string name="lbl_my_department">My Department</string>
+  <string name="lbl_profile">PROFILE</string>
+  <string name="lbl_college_connect">College Connect</string>
+  <string name="lbl_my_interests">My Interests</string>
+  <string name="lbl_hi_i_m_alan">Hi. I\u2019m Alan.</string>
+  <string name="msg_hello_i_m_imti">Hello. I\u2019m Imtiyaz from Trivandrum. I\u2019m...</string>
+  <string name="lbl_chemical">Chemical</string>
+  <string name="lbl_coalesce">COALESCE</string>
+  <string name="lbl_my_nexus">My Nexus</string>
+  <string name="lbl_aerospace">Aerospace</string>
+  <string name="msg_computer_scienc">Computer Science</string>
+  <string name="msg_electrical_and">Electrical and Electronics</string>
+  <string name="msg_machine_learnin">Machine Learning</string>
+</resources>
